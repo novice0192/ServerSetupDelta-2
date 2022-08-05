@@ -1,0 +1,6 @@
+minor 0.003%
+seniorCitizen 0.005%
+foreigner 0.007%
+resident 0.009%
+citizen 0.010%
+legacy 0.004%
